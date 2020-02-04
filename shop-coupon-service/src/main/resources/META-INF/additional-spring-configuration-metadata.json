@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.dubbo.registry.address",
+      "type": "java.lang.String",
+      "description": "Description for spring.dubbo.registry.address."
+  }
+] }
